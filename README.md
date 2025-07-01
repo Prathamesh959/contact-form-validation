@@ -31,24 +31,16 @@ If all inputs are valid, it shows a success message. No data is actually submitt
 ---
 
 ##  Files Included
-- `index.html` – Contact form structure
-- `style.css` – Styling for the form
-- `script.js` – JavaScript for validation
+- `task6.html` – Contact form structure
+- `task6.css` – Styling for the form
+- `task6t.js` – JavaScript for validation
 - `README.md` – This file
 
 ---
 
 ## How to Use
-1. Open `index.html` in a browser.
+1. Open `task6.html` in a browser.
 2. Try submitting the form with empty fields or invalid email to see validation.
 3. Enter valid data to see the success message.
 
----
 
-## 📸 Screenshot
-*(Optional – add screenshot here if you want)*
-
----
-
-## 🌐 Live Demo
-You can deploy it using GitHub Pages (instructions below).
